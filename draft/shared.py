@@ -1,2 +1,2 @@
 def foo():
-    return 55
+    return 88
